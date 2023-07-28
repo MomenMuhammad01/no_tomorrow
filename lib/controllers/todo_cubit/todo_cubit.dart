@@ -2,8 +2,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:no_tomorrow/models/todo_model.dart';
 import 'package:no_tomorrow/services/todo_service.dart';
-import 'package:no_tomorrow/views/widgets/all_todo_deleted.dart';
-
 
 part 'todo_state.dart';
 
