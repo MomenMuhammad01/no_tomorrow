@@ -28,10 +28,6 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-flutter_launcher_icons:
-  android: true
-  image_path: "assets/images/app_icon.png"
-
   assets:
     - assets/images/app_icon.png
     - assets/images/dark_splash.png
@@ -52,3 +48,9 @@ flutter_launcher_icons:
           weight: 700
         - asset: assets/fonts/OpenSans-ExtraBold.ttf
           weight: 800
+
+flutter_launcher_icons:
+  android: true
+  image_path: "assets/images/app_icon.png"
+
+  
