@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MomenMuhammad01/no_tomorrow)
 ![GitHub issues](https://img.shields.io/github/issues/MomenMuhammad01/no_tomorrow)
 
-This repository contains the source code for the No Tomorrow Todo app built with Flutter applying MVC Archticture Pattern.
+This repository contains the source code for the No Tomorrow Todo app built with Flutter applying MVC Archticture.
 
 ## 🚀: Features
 
