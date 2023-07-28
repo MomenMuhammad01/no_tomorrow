@@ -1,16 +1,16 @@
-# 📱 No Tomrrow ToDo App
+# 📱 No Tomorrow ToDo App
 
 ![GitHub](https://img.shields.io/github/license/MomenMuhammad01/no_tomorrow)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MomenMuhammad01/no_tomorrow)
 ![GitHub issues](https://img.shields.io/github/issues/MomenMuhammad01/no_tomorrow)
 
-This repository contains the source code for the No Tomorrow Todo app built with Flutter applying MVC Archticture.
+This repository contains the source code for the No Tomorrow Todo app built with Flutter applying MVC Architecture.
 
 ## 🚀: Features
 
 - Add todo
 - Delete todo
-- Mark todo as complated
+- Mark todo as completed
 - Theme switch
 
 ## Prerequisites
@@ -22,7 +22,7 @@ Before running the app, ensure that you have the following:
 
 ## Getting Started
 
-To get started with the TMDA Android app, follow these steps:
+To get started with the No Tomorrow app, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
