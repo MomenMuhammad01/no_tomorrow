@@ -55,9 +55,7 @@ This project is licensed under the ![GitHub](https://img.shields.io/github/licen
 
 ## Acknowledgments
 
-The TMDA Flutter app is built using the TMDB API, which power the whole app's features
-
-. We would like to express our gratitude to the TMDB team for their efforts in providing this valuable resource.
+. i would like to express my gratitude to  ```Hasan Basri Bayat``` from Figma community for the UI/UX work.
 
 ## Contact
 
