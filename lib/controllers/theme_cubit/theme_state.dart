@@ -1,10 +1,23 @@
 part of 'theme_cubit.dart';
 
-abstract class ThemeState extends Equatable {
-  const ThemeState();
+class ThemeState extends Equatable {
+  final bool isDarkMode;
+  final bool themeLoaded;
+  const ThemeState({
+    this.isDarkMode = false, 
+    this.themeLoaded = false,
+    });
 
   @override
-  List<Object> get props => [];
-}
+  List<Object> get props => [isDarkMode];
 
-class ThemeInitial extends ThemeState {}
+  ThemeState copyWith({
+    bool? isDarkMode,
+    bool? themeLoaded,
+  }) {
+    return ThemeState(
+      isDarkMode: isDarkMode ?? this.isDarkMode,
+      themeLoaded: themeLoaded ?? this.themeLoaded,
+    );
+  }
+}

@@ -4,7 +4,6 @@ import 'package:no_tomorrow/models/theme_model.dart';
 import 'package:no_tomorrow/utils/app_constants.dart';
 
 class ThemeService{
-
   final Box<ThemeModel> hiveTheme = Hive.box(themeDataBaseName);
   
   Future<ThemeModel> getCurrentTheme() async {
