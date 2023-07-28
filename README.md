@@ -1,4 +1,4 @@
-# 📱 TMDA Flutter App
+# 📱 No Tomrrow ToDo App
 
 ![GitHub license](https://img.shields.io/github/license/MomenMuhammad01/no_tomorrow)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MomenMuhammad01/no_tomorrow)
