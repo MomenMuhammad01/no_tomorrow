@@ -13,8 +13,8 @@ class StringsManager{
   // Widgets Strings
 
   static const String dataLoadFailed = 'Data Load Failed.';
-  static const String noTodoToDelete = 'No todo To delete.';
-  static const String allTodoDeleted = 'All todo deleted.';
-  static const String noTodoFound = 'No todo found.';
+  static const String noTodoToDelete = 'No ToDo To Delete.';
+  static const String allTodoDeleted = 'ToDo List Deleted.';
+  static const String noTodoFound = 'No ToDo was Found.';
 
 }
