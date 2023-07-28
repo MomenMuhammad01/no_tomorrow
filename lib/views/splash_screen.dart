@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/scheduler.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:no_tomorrow/controllers/theme_cubit/theme_cubit.dart';
 import 'package:no_tomorrow/utils/app_constants.dart';
