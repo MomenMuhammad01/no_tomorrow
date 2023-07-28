@@ -1,6 +1,6 @@
 # 📱 No Tomrrow ToDo App
 
-![GitHub license](https://img.shields.io/github/license/MomenMuhammad01/no_tomorrow)
+![GitHub](https://img.shields.io/github/license/MomenMuhammad01/no_tomorrow)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MomenMuhammad01/no_tomorrow)
 ![GitHub issues](https://img.shields.io/github/issues/MomenMuhammad01/no_tomorrow)
 
@@ -51,7 +51,7 @@ When contributing, please adhere to the following guidelines:
 
 ## License
 
-This project is licensed under the ![MIT License](https://img.shields.io/github/license/MomenMuhammad01/no_tomorrow). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the ![GitHub](https://img.shields.io/github/license/MomenMuhammad01/no_tomorrow). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Acknowledgments
 
